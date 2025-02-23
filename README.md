@@ -1,4 +1,4 @@
-<img src="https://www.canva.com/design/DAGf2Tlhp6E/FXY53clb9bUm2CrWtVJOrQ/view?utm_content=DAGf2Tlhp6E&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3603129b56">
+<img src="https://media.licdn.com/dms/image/v2/D5616AQEeJ1IRnM-wiw/profile-displaybackgroundimage-shrink_350_1400/B56ZUuuqIwGsAY-/0/1740245738775?e=1746057600&v=beta&t=nHvGKM3XozG4DSp7dmqhyToUquwQVpF4gYwIJ4xXOGM">
 
 <h1 align="center">Hi 👋 I'm Md Harej Mian</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
